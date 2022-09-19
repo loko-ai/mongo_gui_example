@@ -17,13 +17,13 @@
         "4321": null
       },
       "environment": {
-        "MONGO_URL": "mongodb://ciccio_mongo:27017"
+        "MONGO_URL": "mongodb://mongo_gui_example_mongo:27017"
       },
       "expose": [
         4321
       ],
       "gui": {
-        "name": "db manager",
+        "name": "db qualcosa",
         "path": "/",
         "gw": false
       }
