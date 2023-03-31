@@ -1,9 +1,4 @@
 {
-  "main": {
-    "gui": {
-      "name": "click_me_gui"
-    }
-  },
   "side_containers": {
     "mongo": {
       "image": "mongo",
@@ -23,7 +18,7 @@
         4321
       ],
       "gui": {
-        "name": "db qualcosa",
+        "name": "mongo gui",
         "path": "/",
         "gw": false
       }
